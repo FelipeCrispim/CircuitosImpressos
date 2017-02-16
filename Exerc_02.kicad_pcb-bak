@@ -293,7 +293,7 @@
   )
 
   (module Capacitors_SMD:C_0805 (layer F.Cu) (tedit 5415D6EA) (tstamp 58A50825)
-    (at 163.576 103.886)
+    (at 148.5011 105.0036)
     (descr "Capacitor SMD 0805, reflow soldering, AVX (see smccp.pdf)")
     (tags "capacitor 0805")
     (path /58A30821)
@@ -596,7 +596,7 @@
   )
 
   (module Diodes_SMD:D_0805 (layer F.Cu) (tedit 586A4032) (tstamp 58A508D1)
-    (at 156.938 104.394)
+    (at 148.5011 105.0036)
     (descr "Diode SMD in 0805 package")
     (tags "smd diode")
     (path /58A38EF4)
@@ -912,7 +912,7 @@
   )
 
   (module Resistors_SMD:R_0805 (layer F.Cu) (tedit 58307B54) (tstamp 58A50978)
-    (at 142.814 104.14)
+    (at 148.5011 105.0036)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
     (path /58A3B6EB)
@@ -945,7 +945,7 @@
   )
 
   (module Resistors_SMD:R_0805 (layer F.Cu) (tedit 58307B54) (tstamp 58A50988)
-    (at 165.1 110.744)
+    (at 148.5011 105.0036)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
     (path /58A36CA0)
@@ -978,7 +978,7 @@
   )
 
   (module Resistors_SMD:R_0805 (layer F.Cu) (tedit 58307B54) (tstamp 58A50998)
-    (at 160.782 114.554)
+    (at 148.5011 105.0036)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
     (path /58A3A7F7)
@@ -1011,7 +1011,7 @@
   )
 
   (module Resistors_SMD:R_0805 (layer F.Cu) (tedit 58307B54) (tstamp 58A509A8)
-    (at 149.352 105.156)
+    (at 148.5011 105.0036)
     (descr "Resistor SMD 0805, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0805")
     (path /58A388DD)
