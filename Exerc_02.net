@@ -1,7 +1,7 @@
 (export (version D)
   (design
-    (source /home/felipecrispim/kicad-Workspace/Exerc_02.sch)
-    (date "Ter 14 Fev 2017 19:24:52 BRT")
+    (source /home/felipecrispim/kicad-Workspace/PCB_Exerc02/Exerc_02.sch)
+    (date "Qui 16 Fev 2017 19:28:55 BRT")
     (tool "Eeschema 4.0.5-e0-6337~49~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -35,7 +35,7 @@
       (tstamp 58A21410))
     (comp (ref P3)
       (value USB_A)
-      (footprint Connectors:USB_B)
+      (footprint Connectors:USB_Micro-B)
       (libsource (lib conn) (part USB_A))
       (sheetpath (names /) (tstamps /))
       (tstamp 58A214C7))
@@ -380,12 +380,12 @@
   (libraries
     (library (logical conn)
       (uri /usr/share/kicad/library/conn.lib))
+    (library (logical NorBot)
+      (uri /home/felipecrispim/kicad-Workspace/PCB_Exerc02/NorBotKiCadSchematicLibraries-master/NorBot.lib))
     (library (logical device)
       (uri /usr/share/kicad/library/device.lib))
     (library (logical atmel)
-      (uri /usr/share/kicad/library/atmel.lib))
-    (library (logical NorBot)
-      (uri /home/felipecrispim/Downloads/NorBotKiCadSchematicLibraries-master/NorBot.lib)))
+      (uri /usr/share/kicad/library/atmel.lib)))
   (nets
     (net (code 1) (name GND)
       (node (ref P2) (pin 2))

@@ -28,6 +28,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:NorBot
 LIBS:Exerc_02-cache
 EELAYER 25 0
 EELAYER END
@@ -82,7 +83,7 @@ U 1 1 58A214C7
 P 4650 3900
 F 0 "P3" H 4850 3700 50  0000 C CNN
 F 1 "USB_A" H 4600 4100 50  0000 C CNN
-F 2 "Connectors:USB_B" V 4600 3800 50  0001 C CNN
+F 2 "Connectors:USB_Micro-B" V 4600 3800 50  0001 C CNN
 F 3 "" V 4600 3800 50  0000 C CNN
 	1    4650 3900
 	1    0    0    -1  
